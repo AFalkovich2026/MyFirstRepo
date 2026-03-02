@@ -1,0 +1,8 @@
+SupplierID,SupplierName,SupplierCategory,SupplierEmail
+S001,TechWorld,Electronics,techworld@example.com
+S002,MobileHub,Electronics,mobilehub@example.com
+S003,HomeStyle,Furniture,homestyle@example.com
+S004,FashionCo,Clothing,fashionco@example.com
+S005,AudioPlus,Electronics,audioplus@example.com
+S006,KitchenMax,Home,kitchenmax@example.com
+S007,CleanIt,Home,cleanit@example.com

@@ -1,0 +1,32 @@
+ProductID,Category,ProductName,Brand,UnitPrice,SupplierID,Rating
+P001,Home,Philips Item 1,Philips,499,S006,4.7
+P002,Home,Philips Item 2,Philips,399,S006,4.2
+P003,Electronics,Lenovo Item 3,Lenovo,99,S001,3.8
+P004,Home,Dyson Item 4,Dyson,399,S006,4.4
+P005,Furniture,IKEA Item 5,IKEA,59,S003,4.1
+P006,Furniture,IKEA Item 6,IKEA,59,S003,4.3
+P007,Electronics,Apple Item 7,Apple,899,S001,3.6
+P008,Clothing,Adidas Item 8,sony,399,S004,4.4
+P009,Electronics,Lenovo Item 9,Lenovo,899,S001,3.7
+P010,Electronics,Dell Item 10,Dell,499,S001,3.6
+P011,Electronics,Dell Item 11,Dell,99,S001,4.7
+P012,Electronics,Lenovo Item 12,Lenovo,49,S001,4.6
+P013,Electronics,Sony Item 13,,399,S001,4.3
+P014,Furniture,IKEA Item 14,IKEA,499,S003,3.8
+P015,Clothing,Nike Item 15,Nike,399,S004,3.5
+P016,Electronics, Lenov o  Item ,Samsung,399,S001,4.4
+P017,Clothing,Adidas Item 17,Adidas,499,S004,4.9
+P018,Electronics,Samsung Item 18,Samsung,1299,S001,3.9
+P019,Furniture,IKEA Item 19,IKEA,499,S003,3.9
+P020,Electronics,Samsung Item 20,Samsung,699,S001,4.6
+P021,Clothing,Adidas Item 21,Adidas,59,S004,4.7
+P022,Clothing,Adidas Item 22,Adidas,59,S004,4.8
+P023,Electronics,HP Item 23,HP,49,S001,3.8
+P024,Electronics,Dell Item 24,Dell,399,S001,4.0
+P025,Electronics,Apple Item 25,Apple,299,S001,4.1
+P026,Electronics,Lenovo Item 26,Lenovo,899,S001,3.8
+P027,Electronics,HP Item 27,HP,129,S001,4.0
+P028,Clothing,Nike Item 28,Nike,199,S004,3.5
+P029,Clothing,Adidas Item 29,Adidas,59,S004,3.7
+P030,Electronics,Apple Item 30,Apple,59,S001,3.5
+P006,Furniture,IKEA Item 6,IKEA,59,S003,4.3
